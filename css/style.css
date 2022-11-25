@@ -12,7 +12,7 @@ body{
     margin: 0;
 }
 .background {
-    background: url(/img/diego-jimenez-A-NVHPka9Rk-unsplash.jpg) no-repeat center center/cover;
+    background: url(../img/diego-jimenez-A-NVHPka9Rk-unsplash.jpg) no-repeat center center/cover;
     position: absolute;
     top: -20px;
     bottom: -20px;
